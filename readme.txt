@@ -16,4 +16,8 @@ include 'detection.php';
 Edit detection.php file and change the Location of the redirection.
 
 NOTE:-
-It won't work on HTML 
+It won't work on HTML unless you're using Ajax function and calling the PHP files.
+
+Sincere,
+
+FreedomPride
